@@ -1,0 +1,12 @@
+             Initial Parameters 
+
+Population size : 100
+Number of variables : 20
+Pool size of kids formed by PCX : 2
+Number of parents participating in PCX : 3
+Number of parents to be replaced by good kids : 2
+Sigma eta : 0.100000
+Sigma zeta : 0.100000
+Best fitness required : 1.000000e-020
+Number of runs desired : 10
+
